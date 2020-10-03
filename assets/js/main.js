@@ -90,6 +90,7 @@ let footer = $(`
 <footer class="webintern-footer">
 <div class="webintern-footer-inner">
   <div class="container">
+<!-- Links to several sections of portfolio -->
   <div class="row justify-content-center">
   <div class="col-sm-10">
   <h5>Links</h5>
