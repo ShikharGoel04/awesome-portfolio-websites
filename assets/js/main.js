@@ -90,6 +90,20 @@ let footer = $(`
 <footer class="webintern-footer">
 <div class="webintern-footer-inner">
   <div class="container">
+  <div class="row justify-content-center">
+  <div class="col-sm-10">
+  <h5>Links</h5>
+  <ul class="list-unstyled">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="experience.html">Experience</a></li>
+  <li><a href="projects.html">Projects</a></li>
+  <li><a href="research.html">Research</a></li>
+  <li><a href="education.html">Education</a></li>
+  <li><a href="index.html">Blog</a></li>
+  <li><a href="https://docs.google.com/document/d/1-SX2Pz1rD9D1IS-r5PpCCb1JeihSM_BtnI5Y9uruQGc/edit?usp=sharing" target="_blank">My Resume</a></li>
+  </ul>
+</div>
+</div>
     <div class="row">
       <div class="col-lg-7 col-md-6 pt-3" >
       <div class="col-sm-6 col-md-7">
